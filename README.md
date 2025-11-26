@@ -44,3 +44,6 @@ Open in browser: **http://localhost:3000**
 
 ## Codepen
 Here’s the version without Next.js: https://codepen.io/misterifan/pen/OPNQxRp
+
+## Demo
+Here’s the demo deployed on Vercel: https://selection-listing-component.vercel.app

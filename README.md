@@ -41,3 +41,6 @@ Open in browser: **http://localhost:3000**
 ## 📌 Notes
 - Components with selection logic must be Client Components, so "use client" is required.
 - Global selectors like hr, body, etc. must be placed inside globals.css (CSS Modules do not allow unscoped selectors).
+
+## Codepen
+https://codepen.io/misterifan/pen/OPNQxRp

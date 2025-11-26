@@ -40,11 +40,16 @@
 
     /* checked when the .custom-checkbox is selected */
     input:checked~.checkmark {
-        background-color: #2469F6;
+        background-color: #5087F8;
         border-color: #5087F8;
     }
 
     input:checked~.checkmark:hover {
+        background-color: #2469F6;
+        border-color: #2469F6;
+    }
+
+    input:checked~.checkmark:active {
         background-color: #5087F8;
         border-color: #5087F8;
     }

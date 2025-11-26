@@ -11,3 +11,7 @@
 .button:hover {
     background-color: #FFD84D;
 }
+
+.button:active {
+    background-color: #FFCE22;
+}
